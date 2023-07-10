@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos D'Lacoste</h1>
 <h3 align="center">A passionate full-stack developer from Venezuela</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosdlacoste" alt="carlosdlacoste" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Front-end related projects**
 
